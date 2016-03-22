@@ -1,0 +1,3 @@
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:bitmotive/ansible-role-mysql.git
